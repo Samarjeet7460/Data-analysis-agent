@@ -1,2 +1,3 @@
 samarjeet singh - Backend
 Mubasshir Ahmed - tech lead
+Faiz Anwar - Data engineer 
